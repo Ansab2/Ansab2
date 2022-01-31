@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ansab Ali Khan
-- 👀 I’m interested in C / C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in exploring various computer languages .
+- 🌱 I’m currently learning C++ .
 
 
 <!---
